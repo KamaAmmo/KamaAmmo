@@ -1,5 +1,5 @@
 ## About Me:
->- :bearded_person: Kamil Akhmedov, 22 y.o
+>- :bearded_person: Kamil, 22 y.o
 >- :desktop_computer: school21 student, learning Golang, Python
 >- :man_student: Computer Science Engineering
 >- :city_sunrise: Moscow, Russia
